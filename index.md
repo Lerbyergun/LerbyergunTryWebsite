@@ -1,6 +1,6 @@
-# Welcome to GitHub Pages
+# Lerby Ergun [CV](somewhere) [Research](somewhere)
 
-You can use the [editor on GitHub](https://github.com/Lerbyergun/Lerbyergun.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a senior economist at the Bank of Canada. At the Bank of Canada my research focusses on empirical research in financial markets. The topic of my focus is tail behavior in financial markets and information flows in over-the-counter markets.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
